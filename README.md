@@ -1,1 +1,2 @@
-# Project-1
+# README file for Project 1 
+# group: Andrew, Juico, Nick
